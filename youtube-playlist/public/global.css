@@ -1,0 +1,19 @@
+* {
+    transition: all 500ms ease-in-out;
+    box-sizing: border-box;
+}
+
+body,
+h1 {
+    margin: 0;
+}
+
+main {
+    font-family: "Truculenta", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+
+main {
+    padding: 2rem;
+    min-height: 100vh;
+}

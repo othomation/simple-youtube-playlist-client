@@ -1,0 +1,11 @@
+{
+	"extends": "@tsconfig/svelte/tsconfig.json",
+
+	"include": ["src/**/*", "ApiRessources/**/*"],
+	"exclude": ["node_modules/*", "__sapper__/*", "public/*"],
+	"compilerOptions": {
+		"importsNotUsedAsValues": "remove",
+		"types": ["node"],
+		"sourceMap": true
+	}
+}
