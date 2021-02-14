@@ -52,7 +52,7 @@ YT_DEFAULT_VIDEO_THUMBNAIL="AN_IMAGE_TO_ACT_AS_DEFAULT_WHEN_NOT_THUMBNAIL_FOUND"
 Then, you install the dependencies...
 
 ```bash
-cd youtube-playlist-client
+cd app
 npm install
 ```
 
